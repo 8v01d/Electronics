@@ -1,5 +1,5 @@
 # Electronics
 
-| Code File on GitHub | YouTube Video | YouTube Video Title |
-| :---: | ------------- | ------------- |
-| 1 | https://youtu.be/2w9dzJasmHw | Light Controlled (Photoresistor) Oscillator using 555 IC Chip |
+| Code File on GitHub | YouTube Video Link |
+| :---: | ------------- |
+| 1 | [Light Controlled (Photoresistor) Oscillator using 555 IC Chip](https://youtube.com/watch?v=2w9dzJasmHw) |
